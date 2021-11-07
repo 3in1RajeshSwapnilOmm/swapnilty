@@ -3,9 +3,6 @@ Here is a real AI chatbot where you can train the bot yourself! Talk to it and d
 I have already given it some training data to start with.
 I hope you like it!
 */
-alert("AI Chat Bot By Swapnil");
-alert("click yes or No if you are satisfied with your answer");
-alert("Train Your AI");
 window.addEventListener('load', function(){
 
 var chat = document.getElementById("chatButton");
