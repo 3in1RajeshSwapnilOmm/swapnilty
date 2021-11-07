@@ -1,4 +1,4 @@
-/*AI ChatBot by Anuj Upadhyay
+/*AI ChatBot by swapnil
 Here is a real AI chatbot where you can train the bot yourself! Talk to it and decide wether or not its response is good!
 I have already given it some training data to start with.
 I hope you like it!
