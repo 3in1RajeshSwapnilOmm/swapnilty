@@ -16,7 +16,7 @@ var confirm = document.getElementById("confirmation");
 var help = document.getElementById("helpBox");
 var helpBtn = document.getElementById("helpButton");
 var trainingArea = document.getElementById("trainArea");
-var botTalk = ["Hello! I hope you have a good day!", "Yes I have a laptop cost is 30,000","Yes I have a car of cost 23,00,000","yes I have phone cost is 12,0000","I am fine, thanks!","I have no name, but my creators name is Swapnil Pradhan","42","I was created in November, 2021.","I am not human, I am a robot."];
+var botTalk = ["Hello! I hope you have a good day!", ,"I am fine, thanks!","I have no name, but my creators name is Swapnil Pradhan","42","Yes I have a laptop cost is 30,000 I have a car of cost 23,00,000 I have phone cost is 12,0000 but I have no house","I was created in November, 2021","I am not human, I am a robot."];
 var divArr=[];
 var delayVar=0;
 
@@ -26,7 +26,7 @@ var newdiv = document.createElement("div");
 newdiv.style.width = "90%";
 newdiv.style.height = "10%";
 newdiv.style.background = COLOR;
-if(COLOR=="green"){
+if(COLOR=="Yellow"){
 	newdiv.style.left="53%";
 }
 else{
